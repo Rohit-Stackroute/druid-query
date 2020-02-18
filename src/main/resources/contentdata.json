@@ -1,0 +1,108 @@
+[
+  {
+    "timestamp": "2020-02-12T00:00:00.000Z",
+    "objectid": "do_31292081216965017612465",
+    "unique_user_count": 6,
+    "users" : [
+      {
+        "userid" : "u001",
+        "username": "sumit",
+        "batchcode": "b001"
+      },
+      {
+        "userid" : "u002",
+        "username": "rohit",
+        "batchcode": "b001"
+      },
+      {
+        "userid" : "u003",
+        "username": "anjitha",
+        "batchcode": "b002"
+      }
+    ]
+  },
+  {
+    "timestamp": "2020-02-12T01:00:00.000Z",
+    "objectid": "do_31290184703053004811583",
+    "unique_user_count": 7,
+    "users" : [
+      {
+        "userid" : "u001",
+        "username": "sumit",
+        "batchcode": "b001"
+      },
+      {
+        "userid" : "u002",
+        "username": "rohit",
+        "batchcode": "b001"
+      },
+      {
+        "userid" : "u003",
+        "username": "anjitha",
+        "batchcode": "b002"
+      }
+    ]
+  },
+  {
+    "timestamp": "2020-02-12T02:00:00.000Z",
+      "objectid": "3",
+    "unique_user_count": 7,
+    "users" : [
+      {
+        "userid" : "u001",
+        "username": "sumit",
+        "batchcode": "b001",
+        "useravatar": "https://secure.gravatar.com/avatar/d7d232a9c0d488c843719989a9bb3671?s=800&d=identicon"
+      },
+      {
+        "userid" : "u004",
+        "username": "uma",
+        "batchcode": "b002",
+        "useravatar": "https://conceptdraw.com/a3179c3/p7/preview/640/pict--clerk,-man-sales-symbols-vector-stencils-library"
+      },
+      {
+        "userid" : "u002",
+        "username": "rohit",
+        "batchcode": "b001",
+        "useravatar": "https://secure.gravatar.com/avatar/d7d232a9c0d488c843719989a9bb3671?s=800&d=identicon"
+
+      },{
+        "userid" : "u005",
+        "username": "tanya",
+        "batchcode": "b002",
+        "useravatar": "https://conceptdraw.com/a3179c3/p21/preview/640/pict--customer,-woman-sales-symbols-vector-stencils-library"
+
+      },{
+        "userid" : "u006",
+        "username": "rishab",
+        "batchcode": "b003",
+        "useravatar": "https://secure.gravatar.com/avatar/d7d232a9c0d488c843719989a9bb3671?s=800&d=identicon"
+
+      },{
+        "userid" : "u001",
+        "username": "anjitha",
+        "batchcode": "b001",
+        "useravatar": "https://secure.gravatar.com/avatar/28fc50e171965c04e716b40acd02b51a?s=800&d=identicon"
+
+      },{
+        "userid" : "u001",
+        "username": "hii",
+        "batchcode": "b001",
+        "useravatar": "https://webstockreview.net/images/clipart-woman-cellphone-19.png"
+
+      },{
+        "userid" : "u001",
+        "username": "bye",
+        "batchcode": "b001",
+        "useravatar": "https://i.pinimg.com/originals/11/e2/42/11e242c5d1710bef0426ff1e58a15e81.png"
+
+      }, {
+        "userid" : "u0067",
+        "username": "raj",
+        "batchcode": "b001",
+        "useravatar": "https://i.ya-webdesign.com/images/girl-icon-png-8.png"
+
+      }
+    ]
+  }
+]
